@@ -53,3 +53,31 @@ Useful hints, ready_to_use plots, etc for machine learning
     A) Procedure of application of K_Nearest_Neighbors in regression
     
     B) plot k-NN regression on sample dataset for different values of K
+
+# 6) ML_Linearregression:
+
+    Application of Linear Regression (Least-Squares) including following subjects:
+    
+    A) Procedure of application of Linear Regression
+    
+    B) plot Linear Regression on sample dataset 
+    
+# 4) ML_Binary_Decision_boundary_plot:
+
+    A) Sample code to depict accuracy of binary classification and its decision boundary
+
+# 4) ML_Binary_Decision_boundary_plot:
+
+    A) Sample code to depict accuracy of binary classification and its decision boundary
+    
+# 4) ML_Binary_Decision_boundary_plot:
+
+    A) Sample code to depict accuracy of binary classification and its decision boundary
+    
+# 4) ML_Binary_Decision_boundary_plot:
+
+    A) Sample code to depict accuracy of binary classification and its decision boundary
+    
+# 4) ML_Binary_Decision_boundary_plot:
+
+    A) Sample code to depict accuracy of binary classification and its decision boundary
