@@ -56,11 +56,19 @@ Useful hints, ready_to_use plots, etc for machine learning
 
 # 6) ML_Linearregression:
 
-    Application of Linear Regression (Least-Squares) including following subjects:
+    Application of Linear Regression including following subjects:
     
-    A) Procedure of application of Linear Regression
+    A) Procedure of application of Least_Squares Regression 
     
-    B) plot Linear Regression on sample dataset 
+    B) plot Least_Squares Regression on sample dataset
+    
+    C) Procedure of application of Ridge Regression
+    
+    D) Effect of scaling on Ridge
+    
+    E) Procedure of application of Lasso Regression
+    
+    F) Alpha effect on Lasso
     
 # 4) ML_Binary_Decision_boundary_plot:
 
