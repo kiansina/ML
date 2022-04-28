@@ -80,9 +80,9 @@ Useful hints, ready_to_use plots, etc for machine learning
     
     C) Effect of C parameter with plot
 
-# 4) ML_Binary_Decision_boundary_plot:
-
-    A) Sample code to depict accuracy of binary classification and its decision boundary
+# 8) ML_Multiclass_Linear_classification:
+    
+    A) Application of Multiclass linear classification including plot
     
 # 4) ML_Binary_Decision_boundary_plot:
 
