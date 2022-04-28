@@ -1,15 +1,15 @@
 # ML
 Useful hints, ready_to_use plots, etc for machine learning
 
-0) 1- fruit_data_with_colors.txt:
+# 0) 1- fruit_data_with_colors.txt:
 
     This is a text file which is used in some of the example codes.
 
-   2- mlplt:
+#   2- mlplt:
 
     Ready to use excellent plots. (For different types of machine learning methods in supervised regression and classification)
 
-1) ML_initial_plots:
+# 1) ML_initial_plots:
 
    Here two plots are introduced for helping better understanding of a problem (as an example KNN_classification problem). 
    
@@ -17,7 +17,7 @@ Useful hints, ready_to_use plots, etc for machine learning
    
    B) Second plot is just a 3D scatter plot that can help visualizing the problem in a better way when we have 3 features.
  
-2) ML_KNNClassification: 
+# 2) ML_KNNClassification: 
 
     Application of K_Nearest_Neighbors in classification including following subjects:
     
@@ -30,14 +30,26 @@ Useful hints, ready_to_use plots, etc for machine learning
     D) Sensitivity test of accuracy on train/test split proportion depicting its plot.
     
     
-3) :
+# 3) ML_Synsethic_data:
 
-    A) 
+    This is a sample code to create different types of synthetic data to test some machine learning methods or any other use. 4 main types that are mentioned here are:
 
-4) :
+    A) Synthetic dataset for simple regression
+    
+    B) Synthetic dataset for more complex regression
+    
+    C) Synthetic dataset for classification (binary)
+    
+    D) More difficult synthetic dataset for classification (binary) with classes that are not linearly separable
 
-    A) 
+# 4) ML_Binary_Decision_boundary_plot:
 
-5) :
+    A) Sample code to depict accuracy of binary classification and its decision boundary
 
-    A) 
+# 5) ML_KNNRegressor:
+
+    Application of K_Nearest_Neighbors in regression including following subjects:
+    
+    A) Procedure of application of K_Nearest_Neighbors in regression
+    
+    B) plot k-NN regression on sample dataset for different values of K
