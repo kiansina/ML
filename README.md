@@ -92,9 +92,13 @@ Useful hints, ready_to_use plots, etc for machine learning
     
     B) Effect of C
     
-# 4) ML_Binary_Decision_boundary_plot:
+# 10) ML_Cross_Validation_and_Pipelines:
 
-    A) Sample code to depict accuracy of binary classification and its decision boundary
+    Application of cross validation including following subjects:
+    
+    A) Procedure of application of cross validation
+    
+    B) How to normalize with pipelines
     
 # 4) ML_Binary_Decision_boundary_plot:
 
