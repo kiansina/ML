@@ -84,9 +84,13 @@ Useful hints, ready_to_use plots, etc for machine learning
     
     A) Application of Multiclass linear classification including plot
     
-# 4) ML_Binary_Decision_boundary_plot:
+# 9) ML_Linear_Support_Vector_machine_classification:
 
-    A) Sample code to depict accuracy of binary classification and its decision boundary
+    Application of Linear Support Vector machine classification including following subjects:
+    
+    A) Procedure of application of Linear Support Vector machine classification with plot
+    
+    B) Effect of C
     
 # 4) ML_Binary_Decision_boundary_plot:
 
