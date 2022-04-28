@@ -5,7 +5,7 @@ Useful hints, ready_to_use plots, etc for machine learning
 
     This is a text file which is used in some of the example codes.
 
-#   2- mlplt:
+# 0) 2- mlplt:
 
     Ready to use excellent plots. (For different types of machine learning methods in supervised regression and classification)
 
