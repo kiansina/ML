@@ -30,7 +30,7 @@ Useful hints, ready_to_use plots, etc for machine learning
     D) Sensitivity test of accuracy on train/test split proportion depicting its plot.
     
     
-# 3) ML_Synsethic_data:
+# 3) ML_Synthetic_data:
 
     This is a sample code to create different types of synthetic data to test some machine learning methods or any other use. 4 main types that are mentioned here are:
 
@@ -70,9 +70,15 @@ Useful hints, ready_to_use plots, etc for machine learning
     
     F) Alpha effect on Lasso
     
-# 4) ML_Binary_Decision_boundary_plot:
+# 7) ML_LogisticRegression:
 
-    A) Sample code to depict accuracy of binary classification and its decision boundary
+    Application of Logistic Regression including following subjects:
+    
+    A) Procedure of application of Logistic Regression on Fruit data sample with plot
+    
+    B) Procedure of application of Logistic Regression on synthetic data sample with plot
+    
+    C) Effect of C parameter with plot
 
 # 4) ML_Binary_Decision_boundary_plot:
 
