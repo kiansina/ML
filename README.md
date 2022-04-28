@@ -1,11 +1,11 @@
 # ML
 Useful hints, ready_to_use plots, etc for machine learning
 
-0) fruit_data_with_colors.txt:
+0) a- fruit_data_with_colors.txt:
 
     This is a text file which is used in some of the example codes.
 
-0) mlplt:
+   b- mlplt:
 
     Ready to use excellent plots. (For different types of machine learning methods in supervised regression and classification)
 
