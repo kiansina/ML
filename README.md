@@ -127,3 +127,7 @@ Useful hints, ready_to_use plots, etc for machine learning
 # 14) ML_Decision_tree:
 
     A) Application of Decision tree with plot
+
+# 15) ML_DummyClassification:
+
+    A) Accuracy check 
