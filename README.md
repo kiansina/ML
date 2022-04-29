@@ -123,3 +123,7 @@ Useful hints, ready_to_use plots, etc for machine learning
 # 13) ML_Validation_Curve:
 
     A) Application of Validation Curve with plot
+    
+# 14) ML_Decision_tree:
+
+    A) Application of Decision tree with plot
