@@ -111,3 +111,12 @@ Useful hints, ready_to_use plots, etc for machine learning
     C) Gamma effect, C effect, Combination effect with plots
     
     D) Normalization (Scaling) effect
+
+# 12) ML_Polynomial_regression:
+
+    Application of Polynomial regression including following subjects:
+    
+    A) Procedure of Application of Polynomial regression
+    
+    B) Its combination with regularizations such as Ridge
+    
