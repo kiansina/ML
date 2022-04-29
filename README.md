@@ -120,3 +120,6 @@ Useful hints, ready_to_use plots, etc for machine learning
     
     B) Its combination with regularizations such as Ridge
     
+# 13) ML_Validation_Curve:
+
+    A) Application of Validation Curve with plot
