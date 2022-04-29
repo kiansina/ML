@@ -100,6 +100,14 @@ Useful hints, ready_to_use plots, etc for machine learning
     
     B) How to normalize with pipelines
     
-# 4) ML_Binary_Decision_boundary_plot:
+# 11) ML_Kernalized_Support_Vector_machine:
 
-    A) Sample code to depict accuracy of binary classification and its decision boundary
+    Application of Kernalized Support Vector machine including following subjects:
+    
+    A) Procedure of Application of Kernalized Support Vector machine RBF type and decision boundary plot
+    
+    B) Procedure of Application of Kernalized Support Vector machine polynomial type and decision boundary plot
+    
+    C) Gamma effect, C effect, Combination effect with plots
+    
+    D) Normalization (Scaling) effect
