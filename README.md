@@ -131,3 +131,19 @@ Useful hints, ready_to_use plots, etc for machine learning
 # 15) ML_DummyClassification:
 
     A) Accuracy check 
+
+# 16) ML_Confusion_matrix:
+
+    A) applied for different machine learning methods
+    
+# 15) ML_DummyClassification:
+
+    A) Accuracy check 
+    
+# 15) ML_DummyClassification:
+
+    A) Accuracy check 
+
+# 15) ML_DummyClassification:
+
+    A) Accuracy check 
