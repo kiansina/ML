@@ -136,14 +136,14 @@ Useful hints, ready_to_use plots, etc for machine learning
 
     A) applied for different machine learning methods
     
-# 15) ML_DummyClassification:
+# 17) ML_Metrics_binary_classification:
 
-    A) Accuracy check 
+    A) Accuracy/Precision/Recall/F1 etc 
     
-# 15) ML_DummyClassification:
+# 18) ML_Decision_functions:
 
-    A) Accuracy check 
+    A) Scores and probabilites 
 
-# 15) ML_DummyClassification:
+# 19) ML_Precision_recall_curves:
 
-    A) Accuracy check 
+    A) Precision-Recall and ROC (area under diagram) curves
