@@ -147,3 +147,7 @@ Useful hints, ready_to_use plots, etc for machine learning
 # 19) ML_Precision_recall_curves:
 
     A) Precision-Recall and ROC (area under diagram) curves
+
+# 20) ML_Multi_class_Confusion_matrix:
+
+    A) Confusion matrix and all related features of multi class problems
