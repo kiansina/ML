@@ -151,3 +151,7 @@ Useful hints, ready_to_use plots, etc for machine learning
 # 20) ML_Multi_class_Confusion_matrix:
 
     A) Confusion matrix and all related features of multi class problems
+
+# 21) ML_Regression_Evaluation:
+
+    A) Regression evaluation and metrics
