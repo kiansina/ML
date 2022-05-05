@@ -171,3 +171,7 @@ Useful hints, ready_to_use plots, etc for machine learning
 # 25) ML_Random_forests_ensemble:
 
     A) Application of Random forests
+
+# 26) ML_Gradient_boosted_decision_trees:
+
+    A) Application of Gradient boosted decision trees
