@@ -155,3 +155,19 @@ Useful hints, ready_to_use plots, etc for machine learning
 # 21) ML_Regression_Evaluation:
 
     A) Regression evaluation and metrics
+
+# 22) ML_model_selection_using_evaluation_metrics:
+
+    A) using evaluation metrics to select suitable model 
+
+# 23) ML_Optimizing_Classifier_evaluation_metrics:
+
+    A) optimize classifier based on selected metric
+
+# 24) ML_Naive_Bayes_classifiers:
+
+    A) Application of Navie bayes classifier
+
+# 25) ML_Random_forests_ensemble:
+
+    A) Application of Random forests
